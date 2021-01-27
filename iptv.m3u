@@ -1,0 +1,259 @@
+#EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz"
+#EXTINF:-1,group-title="УКРАИНСКИЕ",IHTEP
+https://edge1.iptv.macc.com.ua/img/inter_3/index.m3u8
+#EXTINF:-1,group-title="УКРАИНСКИЕ",1+1
+http://51.68.140.190:8081/tv/1+1/playlist.m3u8
+#EXTINF:-1,group-title="УКРАИНСКИЕ", 112
+http://51.68.141.106:8081/tv/112/playlist.m3u8
+#EXTINF:-1,group-title="УКРАИНСКИЕ",ICTV
+http://51.68.140.190:8081/tv/ictv/playlist.m3u8
+#EXTINF:-1,group-title="УКРАИНСКИЕ",K1
+http://109.68.40.67/life/k1_3/index.m3u8
+#EXTINF:-1,group-title="УКРАИНСКИЕ",1 Odessa
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr/playlist.m3u8
+#EXTINF:-1,group-title="УКРАИНСКИЕ",A1 Odessa
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-720p/playlist.m3u8
+#EXTINF:-1, group-title="ОСНОВНЫЕ", Первый канал
+http://37.235.170.167:81/udp/225.50.66.201:1234
+#EXTINF:-1, group-title="ОСНОВНЫЕ", Россия 1
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1800000.m3u8
+#EXTINF:-1, group-title="ОСНОВНЫЕ", НТВ
+http://37.235.136.102:81/udp/225.50.66.94:1234
+#EXTINF:-1, group-title="ОСНОВНЫЕ", Пятый канал
+http://iptv.ktkru.ru:8005/index.m3u8
+#EXTINF:-1, group-title="ОСНОВНЫЕ", Культура
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8
+#EXTINF:-1, group-title="ОСНОВНЫЕ", ОТР
+http://91.232.39.17:8002/play/a00q/index.m3u8
+#EXTINF:-1, group-title="ОСНОВНЫЕ", Домашний
+http://37.235.170.167:81/udp/225.50.66.54:1234
+#EXTINF:-1, group-title="ОСНОВНЫЕ", ТВ Центр
+http://37.235.136.102:81/udp/225.50.66.3:1234
+#EXTINF:-1, group-title="ОСНОВНЫЕ", Рен ТВ
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:-1, group-title="ОСНОВНЫЕ", СТС
+http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/sts/playlist.m3u8
+#EXTINF:-1, group-title="ОСНОВНЫЕ", ТВ-3
+http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/tv3/playlist.m3u8
+#EXTINF:-1, group-title="ОСНОВНЫЕ", Пятница
+http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/pyatnica/playlist.m3u8
+#EXTINF:-1, group-title="ОСНОВНЫЕ", Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
+#EXTINF:-1, group-title="ОСНОВНЫЕ", МИР Premium
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1, group-title="ОСНОВНЫЕ", Муз-ТВ
+http://video-4-205.rutube.ru/stream/194.190.76.10/ec27028741528445c21860576c21bb08/tracks-v1a1/mono.m3u8
+#EXTINF:-1, group-title="ОСНОВНЫЕ", ТНТ
+http://uiptv.do.am/1ufc/106596187/playlist.m3u8
+#EXTINF:-1, group-title="ОСНОВНЫЕ", Первый канал Евразия
+http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
+#EXTINF:-1, group-title="ОСНОВНЫЕ", НТВ ХИТ
+http://178.163.60.244:4022/udp/234.0.0.236:2000
+#EXTINF:-1, group-title="ОСНОВНЫЕ", РТР Планета СНГ
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
+#EXTINF:-1, group-title="НОВОСТИ", 100% News
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1, group-title="НОВОСТИ", 360 Подмосковье
+https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/2.m3u8
+#EXTINF:-1, group-title="НОВОСТИ", БелРос
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1, group-title="НОВОСТИ", Вместе-РФ
+http://vmesterf.bonus-tv.ru:80/cdn/vmesterf/tracks-v1a1/index.m3u8
+#EXTINF:-1, group-title="НОВОСТИ", Дождь
+http://89.189.191.250/239.211.211.70/stream.m3u8
+#EXTINF:-1, group-title="НОВОСТИ", Евроновости
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:-1, group-title="НОВОСТИ", Известия
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1, group-title="НОВОСТИ", ЛДПР ТВ
+http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
+#EXTINF:-1, group-title="НОВОСТИ", МИР 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1, group-title="НОВОСТИ", РБК
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1, group-title="НОВОСТИ", Россия 24
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1, group-title="НОВОСТИ", Русская Америка TV
+https://stream.russianamerica.tv/ratv/index.m3u8
+#EXTINF:-1, group-title="НОВОСТИ", BBC World
+http://109.171.7.192:81/udp/239.54.5.180:1234
+#EXTINF:-1, group-title="НОВОСТИ", Bloomberg
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:-1, group-title="НОВОСТИ", Brics TV HD
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
+#EXTINF:-1, group-title="НОВОСТИ", Deutsche Welle Russia
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
+#EXTINF:-1, group-title="НОВОСТИ", France 24
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+#EXTINF:-1, group-title="НОВОСТИ", PRO Business
+http://109.171.7.192:81/udp/239.54.5.167:1224
+#EXTINF:-1, group-title="НОВОСТИ", Russia Today
+http://rt-news.secure.footprint.net/1103.m3u8
+#EXTINF:-1, group-title="КИНО", Дом кино
+http://178.163.100.12:4022/udp/234.0.0.219:2000
+#EXTINF:-1, group-title="КИНО", Дом Кино Премиум
+http://37.235.176.23:81/udp/225.50.64.3:1234
+#EXTINF:-1, group-title="КИНО", Дорама
+http://sc.id-tv.kz:80/dorama_hd_38_39.m3u8
+#EXTINF:-1, group-title="КИНО", Иллюзион +
+http://5.129.0.223:81/udp/239.1.21.19:1234
+#EXTINF:-1, group-title="КИНО", Кино ТВ
+http://178.163.39.34:4022/udp/234.0.0.154:2000
+#EXTINF:-1, group-title="КИНО", Кинозал (Гал ТВ)
+http://clients.apsny.camera/tv_gal_tv_hd_online/tracks-v1a1/mono.m3u8
+#EXTINF:-1, group-title="КИНО", Кинокомедия
+http://178.163.100.12:4022/udp/234.0.0.118:2000
+#EXTINF:-1, group-title="КИНО", Киномикс
+http://178.163.100.12:4022/udp/234.0.0.222:2000
+#EXTINF:-1, group-title="КИНО", Кинопремьера
+http://5.128.151.148:81/udp/239.1.21.26:1234
+#EXTINF:-1, group-title="КИНО", КиноСат
+http://37.235.173.7:81/udp/225.50.64.49:1234
+#EXTINF:-1, group-title="КИНО", Киносемья
+http://194.156.166.2:8000/play/a01j
+#EXTINF:-1, group-title="КИНО", Киносерия
+http://178.163.100.12:4022/udp/234.0.0.119:2000
+#EXTINF:-1, group-title="КИНО", Кинохит
+http://194.156.166.2:8000/play/a01l
+#EXTINF:-1, group-title="КИНО", Киноужас
+http://37.235.173.7:81/udp/225.50.64.63:1234
+#EXTINF:-1, group-title="КИНО", Красная линия
+https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
+#EXTINF:-1, group-title="КИНО", Мир сериала
+https://strm.yandex.ru/kal/mirseriala/mirseriala0_43_480p.json/index-v1-a1.m3u8
+#EXTINF:-1, group-title="КИНО", Мосфильм. Золотая коллекция
+http://178.163.100.140:4022/udp/234.0.0.95:2000
+#EXTINF:-1, group-title="КИНО", Мужское кино
+http://178.163.107.10:4022/udp/234.0.0.213:2000
+#EXTINF:-1, group-title="КИНО", Наше новое кино
+http://5.128.151.148:81/udp/239.1.21.30:1234
+#EXTINF:-1, group-title="КИНО", НСТ
+http://178.163.100.140:4022/udp/234.0.0.114:2000
+#EXTINF:-1, group-title="КИНО", Ника ТВ
+http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1, group-title="КИНО", Победа
+http://37.235.173.7:81/udp/225.50.64.25:1234
+#EXTINF:-1, group-title="КИНО", Ретро ТВ
+http://5.129.0.223:81/udp/239.1.21.23:1234
+#EXTINF:-1, group-title="КИНО", РТВ - Любимое кино
+http://37.192.145.48:81/udp/239.1.20.10:1234
+#EXTINF:-1, group-title="КИНО", Русская Комедия
+http://51.195.44.53:8081/tv/rus-comedy/chunks.m3u8
+#EXTINF:-1, group-title="КИНО", Русский бестселлер
+http://178.163.43.152:4022/udp/234.0.0.250:2000
+#EXTINF:-1, group-title="КИНО", Русский детектив
+http://37.235.176.23:81/udp/225.50.64.54:1234
+#EXTINF:-1, group-title="КИНО", Русский иллюзион
+http://178.163.43.152:4022/udp/234.0.0.178:2000
+#EXTINF:-1, group-title="КИНО", Русский роман
+http://178.163.100.140:4022/udp/234.0.0.224:2000
+#EXTINF:-1, group-title="КИНО", Советское кино
+https://strm.yandex.ru/kal/sovkino_supres/sovkino_supres0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-1, group-title="КИНО", Театр
+http://178.49.2.94:81/udp/239.1.21.18:1234
+#EXTINF:-1, group-title="КИНО", Amedia 1
+http://178.163.43.152:4022/udp/234.0.0.155:2000
+#EXTINF:-1, group-title="КИНО", Amedia 2
+http://5.128.151.148:81/udp/239.1.20.65:1234
+#EXTINF:-1, group-title="КИНО", Amedia Hit
+http://178.163.43.152:4022/udp/234.0.0.169:2000
+#EXTINF:-1, group-title="КИНО", Amedia Premium
+http://178.163.43.152:4022/udp/234.0.0.209:2000
+#EXTINF:-1, group-title="КИНО", Cinema
+http://89.106.234.4:80/Cinema_34_35.m3u8
+#EXTINF:-1, group-title="КИНО", Fox
+http://37.235.173.7:81/udp/225.50.64.22:1234
+#EXTINF:-1, group-title="КИНО", Hollywood
+http://cw2dw.dyndns.tv:8000/live/DIPTV94/120718/309.ts
+#EXTINF:-1, group-title="КИНО", KINO 24
+http://85.192.44.14/hls/Kino24Ru/playlist.m3u8
+#EXTINF:-1, group-title="КИНО", SHOT TV
+http://persik.tv/stream/7725/408679/10454.m3u8
+#EXTINF:-1, group-title="КИНО", SONY ТВ
+http://178.49.2.94:81/udp/239.1.17.18:1234
+#EXTINF:-1, group-title="КИНО", Sony Sci-Fi
+http://178.49.2.94:81/udp/239.1.4.7:1234
+#EXTINF:-1, group-title="КИНО", Sony Turbo
+http://5.128.151.148:81/udp/239.1.4.9:1234
+#EXTINF:-1, group-title="КИНО", Spike
+http://89.189.191.250/239.211.211.149/stream.m3u8
+#EXTINF:-1, group-title="КИНО", Star Cinema
+http://213.184.238.59:5081
+#EXTINF:-1, group-title="КИНО", Zee-TV
+http://37.235.176.23:81/udp/225.50.64.40:1234
+#EXTINF:-1, group-title="НАУКА", 365 дней ТВ
+http://178.49.2.94:81/udp/239.1.5.20:1234
+#EXTINF:-1, group-title="НАУКА", Большая Азия
+http://strm.yandex.ru/kal/bigasia/bigasia0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-1, group-title="НАУКА", Время
+http://178.163.60.244:4022/udp/234.0.0.225:2000
+#EXTINF:-1, group-title="НАУКА", Доктор
+http://178.163.103.125:4022/udp/234.0.0.232:2000
+#EXTINF:-1, group-title="НАУКА", Живая планета
+http://109.171.7.192:81/udp/239.54.5.166:1224
+#EXTINF:-1, group-title="НАУКА", Здоровье
+http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/zdorovood/zdorovo/playlist.m3u8
+#EXTINF:-1, group-title="НАУКА", Нано
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1, group-title="НАУКА", Наука 2.0
+http://178.163.60.244:4022/udp/234.0.0.226:2000
+#EXTINF:-1, group-title="НАУКА", Наша Сибирь
+https://strm.yandex.ru/kal/sibir/sibir0.m3u8
+#EXTINF:-1, group-title="НАУКА", Оружие
+http://5.129.0.223:81/udp/239.1.2.7:1234
+#EXTINF:-1, group-title="НАУКА", Первый образовательный
+http://retc.educom.ru/mosobrtv/tv1/index.m3u8
+#EXTINF:-1, group-title="НАУКА", Совершенно Секретно
+https://strm.yandex.ru/kal/sovsec_supres/sovsec_supres0.m3u8
+#EXTINF:-1, group-title="НАУКА", Тайна
+http://37.235.176.23:81/udp/225.50.64.60:1234
+#EXTINF:-1, group-title="НАУКА", Da Vinci
+http://5.129.0.223:81/udp/239.1.5.6:1234
+#EXTINF:-1, group-title="НАУКА", Discovery Channel
+http://5.128.151.148:81/udp/239.1.17.17:1234
+#EXTINF:-1, group-title="НАУКА", Discovery science
+http://51.195.44.53:8081/tv/discovery-science/playlist.m3u8
+#EXTINF:-1, group-title="НАУКА", English Club TV
+http://178.163.100.140:4022/udp/234.0.0.174:2000
+#EXTINF:-1, group-title="НАУКА", ID Investigation Discovery
+http://5.128.151.148:81/udp/239.1.2.8:1234
+#EXTINF:-1, group-title="НАУКА", HD Life
+http://178.49.2.94:81/udp/239.1.9.2:1234
+#EXTINF:-1, group-title="НАУКА", MOSOBR.TV
+http://retc.educom.ru/mosobrtv/tv1/index.m3u8
+#EXTINF:-1, group-title="НАУКА", National Geographic
+http://178.49.2.94:81/udp/239.1.5.8:1234
+#EXTINF:-1, group-title="НАУКА", Nat Geo Wild
+http://sc.id-tv.kz/NatGeoWildHD_38_39.m3u8
+#EXTINF:-1, group-title="РАЗВЛЕКАТЕЛЬНЫЕ", 9 волна
+https://strm.yandex.ru/kal/acb/acb0.m3u8
+#EXTINF:-1, group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Анекдот ТВ
+https://strm.yandex.ru/kal/anekdot_supres/anekdot_supres0.m3u8
+#EXTINF:-1, group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Бобер
+http://37.235.176.23:81/udp/225.50.64.29:1234
+#EXTINF:-1, group-title="РАЗВЛЕКАТЕЛЬНЫЕ", ЛитКлуб ТВ Проза
+http://video.platformcraft.ru/hls/rossp/proza720/playlist.m3u8
+#EXTINF:-1, group-title="РАЗВЛЕКАТЕЛЬНЫЕ", ЛитКлуб ТВ Слово
+http://video.platformcraft.ru/hls/rossp/slovo720/playlist.m3u8
+#EXTINF:-1, group-title="РАЗВЛЕКАТЕЛЬНЫЕ", ЛитКлуб ТВ Стихи
+http://video.platformcraft.ru/hls/rossp/stihi720/playlist.m3u8
+#EXTINF:-1, group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Ностальгия
+http://178.163.60.244:4022/udp/234.0.0.190:2000
+#EXTINF:-1, group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Русский Экстрим
+http://vid.extremtv.ru/hls_get/cameraFeed.m3u8
+#EXTINF:-1, group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Сарафан
+http://178.163.43.152:4022/udp/234.0.0.246:2000
+#EXTINF:-1, group-title="РАЗВЛЕКАТЕЛЬНЫЕ", СТС Love
+http://109.171.45.109:81/udp/239.54.5.211:1224
+#EXTINF:-1, group-title="РАЗВЛЕКАТЕЛЬНЫЕ", ТНТ4
+http://178.163.39.34:4022/udp/234.0.0.181:2000
+#EXTINF:-1, group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Трофей
+https://5db1ab4f970be.streamlock.net/live/smil:trofey.smil/chunklist_w506766999_b2128000_slukr.m3u8
+#EXTINF:-1, group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Успех
+https://strm.yandex.ru/kal/uspehtv/uspehtv0.m3u8
+#EXTINF:-1, group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Че
+http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/perec/playlist.m3u8
+#EXTINF:-1, group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Ю
+http://dmitry-tv.my1.ru/his/02/CH_U.m3u8
+#EXTINF:-1, group-title="РАЗВЛЕКАТЕЛЬНЫЕ", TLC
+http://5.129.0.223:81/udp/239.1.3.16:1234
