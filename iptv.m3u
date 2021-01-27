@@ -1,12 +1,22 @@
 #EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz"
-#EXTINF:-1,group-title="УКРАИНСКИЕ",IHTEP
-https://edge1.iptv.macc.com.ua/img/inter_3/index.m3u8
+#EXTINF:-1 ,ИНТЕР
+http://lb1.macc.com.ua/img/inter_2/index.m3u8
+#EXTINF:-1, Україна
+http://91.235.69.230:10002
+#EXTINF:-1,NewsOne
+http://bozztv.com/36bay2/gin/giniko_newsone_700kb_36bay2/index.m3u8
 #EXTINF:-1 tvg-id="newsone-ua" tvg-name="NewsOne" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/njpGp3R.jpg" group-title="УКРАИНСКИЕ",NewsOne (720p)
 http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr/ktkod/ktkod/playlist.m3u8
 #EXTINF:-1 tvg-id="112-ua" tvg-name="112 Украина" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/cP5PSl2.jpg" group-title="УКРАИНСКИЕ",112 Україна
 http://112hd-hls1.cosmonova.net.ua/hls/112hd_ua_low/index.m3u8
-#EXTINF:-1,group-title="УКРАИНСКИЕ",ICTV
-http://51.68.140.190:8081/tv/ictv/playlist.m3u8
+#EXTINF:-1,1+1 HD
+http://spacetv.in/stream/DIPK8H19CP8/172.m3u8
+#EXTINF:-1,ICTV
+http://51.195.44.53:8081/tv/ictv/playlist.m3u8
+#EXTINF:-1,СТБ
+http://188.35.9.11:2002/index.m3u8
+#EXTINF:-1, 5 канал
+http://91.235.69.230:10041
 #EXTINF:-1,group-title="УКРАИНСКИЕ",K1
 http://109.68.40.67/life/k1_3/index.m3u8
 #EXTINF:-1,group-title="УКРАИНСКИЕ",1 Odessa
