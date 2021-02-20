@@ -1,12 +1,9 @@
 #EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz"
 #EXTINF:-1 ,ИНТЕР
 http://lb1.macc.com.ua/img/inter_2/index.m3u8
-#EXTINF:-1, Україна
-http://91.235.69.230:10002
-#EXTINF:-1,NewsOne
-http://bozztv.com/36bay2/gin/giniko_newsone_700kb_36bay2/index.m3u8
-#EXTINF:-1 tvg-id="newsone-ua" tvg-name="NewsOne" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/njpGp3R.jpg" group-title="УКРАИНСКИЕ",NewsOne (720p)
-http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr/ktkod/ktkod/playlist.m3u8
+#EXTINF:-1 ,TV1000
+http://109.171.12.89:81/udp/239.54.5.91:1234
+#EXTINF:10165,https://h3.hdru.net/server_3/kino/Ono_2.,1080.,hd.,,mp4.urlset/master.m3u8
 #EXTINF:-1 tvg-id="112-ua" tvg-name="112 Украина" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/cP5PSl2.jpg" group-title="УКРАИНСКИЕ",112 Україна
 http://112hd-hls1.cosmonova.net.ua/hls/112hd_ua_low/index.m3u8
 #EXTINF:-1,1+1 HD
