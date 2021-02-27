@@ -4,7 +4,7 @@ http://lb1.macc.com.ua/img/inter_2/index.m3u8
 #EXTINF:-1 ,TV1000
 http://109.171.12.89:81/udp/239.54.5.91:1234
 #EXTINF:-1, group-title="Ukraine(156)", 112 Україна
-http://app.live.112.events/hls/112hd_mid/index.m3u8
+http://app.live.112.events/hls/112hd_hi/index.m3u8
 #EXTINF:-1,1+1 HD
 http://spacetv.in/stream/DIPK8H19CP8/172.m3u8
 #EXTINF:-1,ICTV
